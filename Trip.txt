@@ -1,0 +1,5 @@
+101|Delhi|India|3D/2N|3000||||||||||
+102|Mumbai|India|3D/2N|5000||||||||||
+104|Jaipur|India|3D/3N|3000||||||||||
+201|Patna|India|2D/1N|5000||||||||||
+107|Sikhim|India|7D/7N|15000|||||||||
